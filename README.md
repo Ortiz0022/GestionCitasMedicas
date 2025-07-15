@@ -19,3 +19,13 @@ This C++ console-based application allows managing patients, doctors, medical se
 - `Archivo*.txt`: Files for storing persistent data.
 - `Proyecto Segundo Semestre KAKG.cpp`: Main entry point and menu system.
 
+## Authors
+
+This project was developed collaboratively by:
+
+- **Angélica Ortiz Barrantes**
+- **Greilyn Esquivel Salazar**
+- **Katheryn Méndez Quirós**
+- **Krystel Salazar Chavarría**
+  
+As part of a C++ programming course focused on object-oriented design.
