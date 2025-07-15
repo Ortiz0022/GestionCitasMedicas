@@ -1,0 +1,7 @@
+﻿  Proyecto Segundo Semestre KAKG.cpp
+C:\Progra\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\ContenedorMedico.h(317,7): warning C4101: 'telefono': variable local sin referencia
+C:\Progra\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\ContenedorMedico.h(318,8): warning C4101: 'disponibilidad': variable local sin referencia
+C:\Progra\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\ContenedorServicios.h(344,9): warning C4101: 'costo': variable local sin referencia
+C:\Progra\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\ContenedorServicios.h(345,8): warning C4101: 'disponibilidad': variable local sin referencia
+C:\Progra\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\ContenedorMedico.h(162): warning C4715: 'ContenedorMedico::BuscarMedico': no todas las rutas de acceso de control devuelven un valor
+  Proyecto Segundo Semestre KAKG.vcxproj -> C:\Progra\Proyecto Segundo Semestre KAKG\Proyecto Segundo Semestre KAKG\x64\Debug\Proyecto Segundo Semestre KAKG.exe
